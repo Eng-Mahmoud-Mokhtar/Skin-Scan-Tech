@@ -1,12 +1,12 @@
-# skinscantech
+# skin scan tech
 
-A new Flutter project.
+An innovative medical app that uses artificial intelligence to accurately analyze images of affected skin, providing reliable diagnoses, personalized treatments, and precise risk assessments for each skin condition.
+
+With specialized sections for burns, skin cancer, and other skin diseases, this app ensures you receive personalized medical consultations at any time through an intelligent chatbot that answers all your inquiries.
+
+The app also offers a case history tracking system, allowing you to monitor treatment progress and track your health improvement over time, ensuring a comprehensive and easily accessible medical experience anywhere, anytime.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
